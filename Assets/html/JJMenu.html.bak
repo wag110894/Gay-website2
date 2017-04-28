@@ -1,0 +1,218 @@
+<!DOCTYPE>
+<html>
+ <head>
+  <title>JavaJam Menu</title></img>
+ <link href="javacss.css" rel="stylesheet">
+ </head>
+<body> 
+ 
+ <div class="logo"><div id="wrapper" style="width:100%; text-align:center">
+ <a href="JJHome.html"/><img src="logo.png" alt="click on image to go to homepage" width="275" height="225";/> 
+ </div>
+ </div>
+ </div>
+  <div class="dropdown">
+  <button class="dropbtn">JavaJam</button>
+  <div class="dropdown-content">
+    <a href="JJHome.html">Home</a></li>
+	<a href="JJMenu.html">Menu</a></li>
+	<a href="JJCalendar.html">Calendar & Activites</a></li>
+	<a href="JJJobs.html">Jobs</a></li>
+  </div>
+  </div>
+ <div class="navigation">
+ <ul>
+ <li><a href="JJHome.html">Home</a></li>&nbsp;
+ <li><a href="JJMenu.html">Menu</a></li>&nbsp;
+ <li><a href="JJCalendar.html">Calendar & Activites</a></li>&nbsp;
+<li><a href="JJJobs.html">Jobs</a></li>&nbsp;
+</ul>
+</div> 
+<div class="menu"><img src="menu.jpg" alt="Menu"><div id="wrapper" style=width="300" height="300" text-align:center">
+ <a href="menu.pdf" download><h2>Menu</h2></a></a>
+ </div>
+ </div>
+<div class="item_hover_content">
+<h1>Menu</h1>
+
+</div>
+<h1>Espresso</h1>
+<div class="flex-container">
+<div class="item_hover_content">
+	<img src="espresso.jpg" alt="Espresso" width="100"  height="100"/>
+	<a href="espresso.jpg"><h2>Espresso</h2></a>
+	<p class="itemprice">$2.50</p>  
+</div>
+
+<div class="item_hover_content">
+	<img src="macchiato.jpg" alt="Macchiato" width="100"  height="100"/>
+	<a href="macchiato.jpg"><h2>Macchiato</h2></a>
+	<p class="itemprice">$2.50</p>  
+</div>
+
+<div class="item_hover_content">
+	<img src="latte.jpg" alt="Latte" width="100"  height="100"/>
+	<a href="latte.jpg"><h2>Latte</h2></a>
+	<p class="itemprice">$3.50</p>  
+</div>
+
+<div class="item_hover_content">
+	<img src="cappuccino.jpg"" alt="Cappuccino" width="100"  height="100"/>
+	<a href="cappuccino.jpg"><h2>Cappuccino</h2></a>
+	<p class="itemprice">$3.50</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="mocha.jpg" alt="Mocha" width="100"  height="100"/>	
+	<a href="mocha.jpg"><h2>Mocha</h2></a>
+	<p class="itemprice">$4.00</p> 
+</div>
+<div class="item_hover_content">
+	<img src="espresso-shot.jpg" alt="Extra Shot" width="100"  height="100"/>
+	<a href="espresso-shot.jpg"><h2>Extra Shot</h2></a>
+	<p class="itemprice"> $1.00</p> 
+</div>
+</div>
+<br>
+<h1> Coffee </h1>
+<div class="flex-container">
+
+<div class="item_hover_content">
+	<img src="drip.jpg" alt="Drip" width="100"  height="100"/>	
+	<a href="drip.jpg"><h2>Drip</h2></a>
+	<p class="itemprice">$2.00</p>
+</div>
+<div class="item_hover_content">
+	<img src="frenchpress.jpg" alt="French Press" width="100"  height="100"/>	
+	<a href="frenchpress.jpg"><h2>French Press</h2></a>
+	<p class="itemprice">$3.50</p>
+</div>
+
+
+<div class="item_hover_content">
+	<img src="vacuumpot.jpg" alt="Vacuum Pot" width="100"  height="100"/>	
+	<a href="vacuumpot.jpg"><h2>Vacuum Pot</h2></a>
+	<p class="itemprice">$5.00</p> 
+</div>
+</div>
+<br>
+<h1>Juice & Smoothies </h1>
+<div class="flex-container">
+<div class="item_hover_content">
+	<img src="italiansoda.jpg" alt="Italian Soda" width="100"  height="100"/>	
+	<a href="italiansoda.jpg"><h2>Italian Soda</h2></a> 
+	<p class="itemprice">$3.50</p> 
+</div>
+
+
+<div class="item_hover_content">
+	<img src="OJ.jpg" alt="OJ" width="100"  height="100"/>	
+	<a href="OJ.jpg"><h2>Orange Juice </h2></a>
+	<p class="itemprice">$3.00</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="strawlemon.jpg" alt="StrawLemon"width="75"  height="100"/>	
+	<a href="strawlemon.jpg"><h2>Strawberry Lemonade</h2></a>
+	<p class="itemprice">$3.00</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="smoothie.jpg" alt="fruit smoothie" width="100"  height="100"/>	
+	<a href="smoothie.jpg"><h2>Fruit Smoothie</h2></a>
+	<p class="itemprice">$4.50</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="soda.jpg" alt="soda"width="75"  height="100"/>	
+	<a href="soda.jpg"><h2>Soda</h2></a>
+	<p class="itemprice">$2.25</p> 
+</div>
+</div>
+<br>
+<h1>Specialty Drinks</h1>
+<div class="flex-container">
+<div class="item_hover_content">
+	<img src="loosetea.jpg" alt="Premium Loose-Leaf Tea" width="100"  height="100"/>	
+	<a href="loosetea.jpg"><h2>Premium Loose-Leaf Tea</h2></a>
+	<p class="itemprice">$2.50</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="tealatte.jpg" alt="Tea Latte" width="100"  height="100"/>	
+	<a href="tealatte.jpg"><h2>Tea Latte</h2></a>
+	<p class="itemprice">$3.00</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="chailatte.jpg" alt="Chai Latte" width="100"  height="100"/>	
+	<a href="chailatte.jpg"><h2>Chai Latte</h2></a>
+	<p class="itemprice">$3.50</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="raspberrymocha.jpg" alt="Raspberry Mocha" width="100"  height="100"/>	
+	<a href="raspberrymocha.jpg"><h2>Raspberry Mocha</h2></a>
+	<p class="itemprice">$4.50</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="whitechocmocha.jpg" alt="White Chocolate Mocha" width="100"  height="100"/>	
+	<a href="whitechocmocha.jpg"><h2>White Chocolate Mocha</h2></a>
+	<p class="itemprice">$4.50</p> 
+</div>
+
+<div class="item_hover_content">
+	<img src="steamer.jpg" alt="Steamer" width="100"  height="100"/>	
+	<a href="steamer.jpg"><h2>Steamer</h2></a>
+	<p class="itemprice">$3.00</p>
+</div>
+<div class="item_hover_content">
+	<img src="hotcocoa.jpg" alt="Hot Cocoa" width="100"  height="100"/>	
+	<a href="hotcocoa.jpg"><h2>Hot Cocoa</h2></a>
+	<p class="itemprice">$3.00</p>
+</div>
+<div class="item_hover_content">
+	<img src="mexcocoa.png" alt="Mexican Hot Chocolate" width="100"  height="100"/>	
+	<a href="mexcocoa.png"><h2>Mexican Hot Chocolate</h2></a>
+	<p class="itemprice">$3.50</p>
+</div>
+
+</div>
+<br>
+<h1>Extras</h1>
+<div class="flex-container">
+
+<div class="item_hover_content">
+	<img src="flavoredsyrup.jpg" alt="Flavored Syrup" width="100"  height="100"/>
+	<a href="flavoredsyrup.jpg"><h2>Flavored Syrup</h2></a>
+	<p class="itemprice">$1.00</p>
+</div>
+
+<div class="item_hover_content">
+<img src="steamedmilk.jpg" alt="Steamed Milk" width="100"  height="100">
+<a href="steamedmilk.jpg"><h2>Steamed Milk</h2></a>
+	<p class="itemprice">$0.50</p>
+</div>
+
+<div class="item_hover_content">
+<img src="acmilk.png" alt="Almond/ Coconut Milk" width="50"  height="100">
+<a href="acmilk.png"><h2>Almond/Coconut Milk</h2></a>
+	<p class="itemprice">$1.00</p>
+</div>
+
+<div class="item_hover_content">
+<img src="beans.jpg" alt="1 lb Beans" width="100"  height="100">
+<a href="beans.jpg"><h2>1 lb Beans</h2></a>
+	<p class="itemprice">$14.00</p>
+</div>
+
+</div>
+<br>
+<footer>
+Love JavaJam? Working here makes it better. Click <li><a href="JJJobs.html">here</a></li>&nbsp; to go to the Jobs page to apply today!
+<br>
+Logo made by William Gay. <a href="JJCredit.html"> To go to Credits page.
+</footer>
+</body>
+</html>

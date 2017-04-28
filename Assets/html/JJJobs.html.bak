@@ -1,0 +1,63 @@
+<!DOCTYPE 
+<html>
+ <head>
+  <title>JavaJam Jobs</title>
+ <link href="javacss.css" rel="stylesheet">
+
+ </head>
+<body>
+ <div class="logo"><div id="wrapper" style="width:100%; text-align:center">
+ <a href="JJHome.html"/><img src="logo.png" alt="click on image to go to homepage" width="275" height="225";/> 
+ </div>
+ </div>
+  <div class="dropdown">
+  <button class="dropbtn">JavaJam</button>
+  <div class="dropdown-content">
+    <a href="JJHome.html">Home</a></li>
+	<a href="JJMenu.html">Menu</a></li>
+	<a href="JJCalendar.html">Calendar & Activites</a></li>
+	<a href="JJJobs.html">Jobs</a></li>
+  </div>
+  </div>
+ <div class="navigation">
+ <ul>
+ <li><a href="JJHome.html">Home</a></li>&nbsp;
+ <li><a href="JJMenu.html">Menu</a></li>&nbsp;
+ <li><a href="JJCalendar.html">Calendar & Activites</a></li>&nbsp;
+<li><a href="JJJobs.html">Jobs</a></li>&nbsp;
+</ul>
+</div>
+<br>
+<div class="script">
+<h1>Interested in joining the JavaJam family? Upload your resume and some basic information here. </h1>
+<div class="computer"> If you are on a moble verison of this site, you will not be able to upload here. However, please input the basic information here to show you are interested. 
+</div>
+<input type="file" id="myFile">
+</div>
+<br>
+<h3>Basic Information</h3>
+<div class="flex-item">
+First Name:<input type="text" size="15"/>
+</div>
+<div class="flex-item">
+Last Name: <input type="text" size="15">
+</div>
+<div class="flex-item">
+E-mail: <input type=“email” name=“email” id=“email”></input>
+</div>
+<br>
+<input type="submit" name="submit" id="submit" value="submit"> </input>
+<script>
+function myFunction() {
+    var x = document.getElementById("myFile");
+    x.disabled = true;
+}
+</script>
+<br>
+<footer>
+Love JavaJam? Working here makes it better. Click <li><a href="JJJobs.html">here</a></li>&nbsp; to go to the Jobs page to apply today! 
+<br>
+Logo made by William Gay. <a href="JJCredit.html"> To go to Credits page.
+</footer>
+ </body>
+ 

@@ -1,0 +1,331 @@
+ 
+body {
+	background-color:#754C28;
+	background-image: url("background.jpg");
+	background-position: center;
+	background-repeat: repeat;
+    background-size: cover;
+	background-attachment:fixed;
+}
+body{
+color:white;
+text-decoration:none;
+}
+
+
+h1 {font-family:sans-serif; 
+color:white;
+text-decoration:none;
+}
+
+
+h2{
+color:white;
+text-decoration:none;
+overflow:hidden;
+display:block;
+}
+
+
+@media only screen and (max-width: 480px) {
+
+
+body {
+font-size:12px;
+}
+
+h1{display:block; 
+}
+h2 {display:block; 
+}
+
+img{
+width:40%;
+height: auto;
+}
+.logo {
+margin:50;
+width:auto;
+height: auto;
+}
+.menu{
+margin:50;
+width:100%;
+
+}
+
+h3 { 
+display:bloc
+text-decoration:underline;
+font-size:15x;
+}
+.navigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navigation a{
+list-style-type:none;
+display: none;
+
+}
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+	}
+
+.dropdown{
+    display: block;
+	position:relative;
+
+}
+
+.dropdown-content {
+	list-style-type: none;
+    display: none;
+    background-color: white;
+    max-width: 80px;
+	text-decoration:none;
+	
+}
+
+.dropdown-content a {
+    list-style-type: none;
+	font-size:18px;
+	color: black;
+    padding:2.5px;
+    text-decoration: none;
+    display: block;
+
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+	list-style-type: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #754C28;
+	list-style-type: ;
+}
+
+.flex-container {
+    display: none;
+}
+.item_hover_content img {
+display:none;
+}
+.itemprice{
+display:none;
+}
+
+footer{
+display:none;
+}
+.script{
+display:none;
+}
+.computer{
+display:inline-block;
+}
+
+footer li a{
+color:white;
+text-decoration:none;
+}
+
+footer li {
+list-style-type: none;
+display: inline-block;
+}
+
+}
+
+}
+@media only screen and (min-width: 481px) and (max-width:767px) {
+.dropbtn {
+display:none;
+}
+
+.dropdown{
+display:none;
+}
+body {
+color:white;
+font-size:20px;
+text-decoration:none;
+}
+
+h1{
+font-family:sans-serif; 
+font-size: 25px;
+color:white;
+text-decoration:none;
+
+}
+h2 {
+display:table; 
+font-size: 20px;
+color:white;
+text-decoration:none;
+text-align:left;
+overflow:hidden;
+}
+
+.logo {
+width:50%;
+height: auto;
+}
+.menu{
+width:120%;
+margin:50;
+}
+
+h3 { text-decoration:underline;
+font-size:20px;
+}
+.item_hover_content {
+    width="100";
+    margin: 15;
+}
+.itemprice{
+padding:5px;
+text-align:center;
+}
+
+.computer{
+display:none;
+}
+
+footer{
+display:none;
+
+}
+
+}
+@media only screen and (min-width: 768px) {
+body {
+color:white;
+font-size:25px;
+text-decoration:none;
+}
+
+h1{
+font-family:sans-serif; 
+font-size: 30px;
+color:white;
+text-decoration:none;
+
+}
+h2 {
+display:table; 
+font-size: 20px;
+color:white;
+text-decoration:none;
+text-align:center;
+overflow:hidden;
+padding:10px;
+}
+.logo{
+margin:20;
+width="275"
+height="225"
+}
+.menu{
+margin:50;
+}
+
+h3 { text-decoration:underline;
+font-size:30px;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    width: 400px;
+    height: 250px;	
+}
+
+.item_hover_content {
+    width: 100px;
+    margin: 15px;
+}
+.itemprice{
+padding:5px;
+text-align:center;
+}
+.dropdown{
+display:none}
+}
+.computer{
+display:none;
+}
+
+footer{
+position:bottom;
+font-size:20px;
+}
+
+footer li a{
+color:white;
+text-decoration:none;
+}
+
+footer li {
+list-style-type: none;
+display: inline-block;
+}
+.navigation ul{
+    list-style-type: block;
+    margin: 0;
+    padding: 0;
+}
+.navigation a{
+list-style-type:block;
+display: block;
+
+}
+.dropbtn {
+	display:none;
+   }
+
+.dropdown{
+    display:none;
+	;
+
+}
+
+.dropdown-content {
+	
+    display: none;
+ 
+	
+}
+
+.dropdown-content a {
+  
+    display: none;
+
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: none;
+	list-style-type: none;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #754C28;
+	list-style-type: ;
+}
+
+}
